@@ -1,0 +1,18 @@
+{
+  "name": "aula",
+  "version": "1.0.0",
+  "description": "Aula de Typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node src/exercicio11.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.0"
+  }
+}
